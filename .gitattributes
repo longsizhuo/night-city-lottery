@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.lua -text
+mod/**/THIRD_PARTY.txt -text
+*.gif binary
+*.png binary
+*.jpg binary
+*.zip binary
